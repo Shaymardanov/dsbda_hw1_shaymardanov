@@ -8,6 +8,7 @@ import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.*;
 
 
+
 public class LogInfoTest {
 
     private static final Text ID = new Text("ip22");

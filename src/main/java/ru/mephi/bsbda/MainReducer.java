@@ -6,6 +6,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 
 
+
 //Reducer class.
 public class MainReducer extends Reducer<Text, LogInfo, Text, Text> {
 

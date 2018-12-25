@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+
 //Mapper2 class.
 public class MainMapper2 extends Mapper<Object, Text, Text, LogInfo> {
 

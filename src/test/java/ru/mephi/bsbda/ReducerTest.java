@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class ReducerTest {
 
     private ReduceDriver<Text, LogInfo, Text, Text> reducDriv;

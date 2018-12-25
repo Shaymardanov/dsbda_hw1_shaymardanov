@@ -13,6 +13,7 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
 
+
 public class MainCounter extends Configured implements Tool {
 
     //@param args first and second args takes input files, third param take output file

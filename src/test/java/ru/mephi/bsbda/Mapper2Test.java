@@ -10,6 +10,7 @@ import org.apache.hadoop.mrunit.mapreduce.MapDriver;
 import java.io.IOException;
 
 
+
 public class Mapper2Test {
 
     private MapDriver<Object, Text, Text, LogInfo> mapDriv;

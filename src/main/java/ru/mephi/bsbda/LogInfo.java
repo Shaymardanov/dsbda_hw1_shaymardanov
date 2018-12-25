@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.util.Objects;
 
 
+
 //class for own type
 public class LogInfo implements WritableComparable<LogInfo> {
 

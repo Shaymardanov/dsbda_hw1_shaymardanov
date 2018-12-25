@@ -9,6 +9,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
+
 //Mapper class.
 public class MainMapper extends Mapper<Object, Text, Text, LogInfo> {
 
